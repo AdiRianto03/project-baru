@@ -1,0 +1,32 @@
+body {
+    background-color: #C9E6F0;
+}
+
+.container {
+    max-width: 800px;
+}
+
+table {
+    background-color: #fff;
+}
+
+table img {
+    max-width: 100px;
+    object-fit: cover; /* Pastikan gambar tidak pecah */
+}
+    
+.d-flex {
+    display: flex;
+}
+    
+.gap-2 {
+    gap: 0.5rem; /* Jarak antar tombol */
+}
+    
+.table td {
+    vertical-align: middle; /* Menjaga isi cell tetap rata tengah */
+}
+    
+.table th, .table td {
+    text-align: center; /* Menyelaraskan teks dan tombol */
+}

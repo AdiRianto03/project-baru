@@ -1,0 +1,69 @@
+body {
+    background-color: #80C4E9 !important;
+    color: #fff;
+    font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #4c595b;
+}
+
+.hero-section {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+    
+.hero-content h1 {
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.hero-section p {
+    color: #4C585B;
+}
+    
+.hero-content h1 span {
+    color: #aaa;
+    font-weight: normal;
+}
+    
+.btn-custom {
+    background-color: #1de034;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+    
+.btn-custom:hover {
+    background-color: #a49597;
+    color: white;
+}
+    
+.nav-link {
+    color: white !important;
+}
+    
+.hire-btn {
+    background-color: #A5BFCC;
+    border: 1px solid white;
+    color: white;
+    border-radius: 20px;
+    padding: 5px 15px;
+}
+    
+.hire-btn:hover {
+    background-color: #1de034;
+    color: white;
+}
+    
+.hero-image img {
+    width: 100%;
+    max-width: 350px;
+    border-radius: 10px;
+}
+
+.hire-btn a {
+    text-decoration: none;
+    color: #fff;
+}
